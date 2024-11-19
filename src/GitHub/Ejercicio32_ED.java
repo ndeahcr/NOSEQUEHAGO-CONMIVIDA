@@ -21,6 +21,7 @@ public class Ejercicio32_ED {
 		System.out.println("Resultado de la suma: " + resultadoSuma);
 		System.out.println("Resultado de la resta: " + resultadoResta);
 		scanner.close();
+		System.out.println("Ayuda subelo");
 		}
 		}
 
