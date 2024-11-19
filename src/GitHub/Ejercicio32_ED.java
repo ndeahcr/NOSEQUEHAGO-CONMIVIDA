@@ -23,6 +23,7 @@ public class Ejercicio32_ED {
 		scanner.close();
 		System.out.println("matenme");
 		System.out.println("paso 5 en proceso");
+		//paso7
 		}
 		} 
 
