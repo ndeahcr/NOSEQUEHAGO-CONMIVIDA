@@ -22,6 +22,7 @@ public class Ejercicio32_ED {
 		System.out.println("Resultado de la resta: " + resultadoResta);
 		scanner.close();
 		System.out.println("Ayuda subelo");
+		System.out.println("paso 8 casi completado");
 		}
 		}
 
